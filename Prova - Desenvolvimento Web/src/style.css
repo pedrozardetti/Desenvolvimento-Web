@@ -1,0 +1,59 @@
+body {
+  background-color: #FFF1D6;
+  font-family: 'Lucida Sans';
+
+  }
+
+.container {
+  display: flex;
+  flex-direction: row;
+}
+
+.segunda-tela {
+  display: flex;
+  flex-direction: column;
+
+}
+
+.card {
+  width: 660px;
+  background-color: #FFF;
+  height: 250px;
+  margin-bottom: 16px;
+  
+}
+
+.card img {
+  border: 1px solid;
+  margin-right: 10px;
+  margin-left: 10px;
+  margin-bottom: 16px;
+}
+
+
+.conteudo {
+  display: flex;
+
+
+}
+
+.linha {
+  border-top: 1px solid;
+  margin-bottom: 10px; 
+}
+
+
+
+
+#card-unico {
+  width: 260px;
+  background-color: #FFFBE4;
+  height: 350px;
+  margin-left: 32px;
+  display: flex;
+  flex-direction: column;
+  font-size: 18px;
+  line-height: 18px;
+
+}
+
