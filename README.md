@@ -56,7 +56,7 @@ Para configurar e explorar o projeto MirrorFashion e os exercícios adicionais, 
 
 1. Clone o repositório:
     ```bash
-    git clone https://github.com/seu-usuario/Desenvolvimento-Web.git
+    git clone https://github.com/pedrozardetti/Desenvolvimento-Web.git
     ```
 
 2. Navegue até o diretório do projeto:
